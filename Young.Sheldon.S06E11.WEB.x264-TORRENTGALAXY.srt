@@ -1,0 +1,2126 @@
+1
+00:00:00,367 --> 00:00:02,012
+Anteriormente
+em Young Sheldon...
+
+2
+00:00:02,017 --> 00:00:04,460
+Seus amigos sabem
+do seu "namorado secreto"?
+
+3
+00:00:04,506 --> 00:00:08,442
+- Está achando que é você?
+- Bem... não sou?
+
+4
+00:00:08,447 --> 00:00:11,542
+Entendo que está avançando
+com o banco de dados de Sheldon.
+
+5
+00:00:11,547 --> 00:00:13,212
+Eu era uma parte
+intrínseca disso.
+
+6
+00:00:13,217 --> 00:00:14,682
+Sheldon não mencionou você.
+
+7
+00:00:14,687 --> 00:00:17,322
+Claro que não, aquele
+porquinho ladrão de crédito.
+
+8
+00:00:17,327 --> 00:00:20,222
+Procuramos um financiador,
+não um sócio.
+
+9
+00:00:20,227 --> 00:00:22,062
+Só quero estar
+por perto do processo.
+
+10
+00:00:22,067 --> 00:00:23,822
+Mas ainda estou no comando, né?
+
+11
+00:00:23,827 --> 00:00:26,032
+- A NASA forjou o pouso na lua?
+- Não.
+
+12
+00:00:26,037 --> 00:00:28,027
+É o que eu pensava
+até cerca de um ano atrás.
+
+13
+00:00:28,032 --> 00:00:30,002
+Vamos nos divertir muito.
+
+14
+00:00:32,437 --> 00:00:33,832
+Os dados chegam aqui e
+
+15
+00:00:33,837 --> 00:00:35,602
+são divididos em três tabelas
+
+16
+00:00:35,607 --> 00:00:38,219
+que estou chamando de
+X-sub-1, X-sub-2, X-sub-3.
+
+17
+00:00:38,242 --> 00:00:39,554
+Bom.
+Bom.
+
+18
+00:00:39,584 --> 00:00:42,949
+E então aqui, ele está sujeito
+à normalização de dados,
+
+19
+00:00:42,987 --> 00:00:45,712
+então não terminamos com
+nenhum campo de dados duplicado.
+
+20
+00:00:45,717 --> 00:00:47,112
+Entendi.
+
+21
+00:00:47,117 --> 00:00:49,422
+- Me dê, papai.
+- O que?
+
+22
+00:00:49,427 --> 00:00:51,952
+O nome da nossa empresa:
+Me dê, papai.
+
+23
+00:00:51,957 --> 00:00:54,128
+É sexy e sofisticada,
+mas ainda assim,
+
+24
+00:00:54,152 --> 00:00:56,316
+John Q. Lunchpail
+pode abraçá-la.
+
+25
+00:00:56,355 --> 00:00:57,662
+Onde você está?
+
+26
+00:00:57,667 --> 00:00:59,992
+Meus advogados
+me aconselharam a não dizer,
+
+27
+00:00:59,997 --> 00:01:02,033
+mas tenho certeza que poderei
+voltar ao país
+
+28
+00:01:02,037 --> 00:01:03,462
+muito em breve.
+
+29
+00:01:03,467 --> 00:01:05,162
+Impostos, sabe?
+
+30
+00:01:06,177 --> 00:01:07,973
+No momento, temos
+coisas mais importantes
+
+31
+00:01:07,997 --> 00:01:10,272
+para focar do que o nome,
+como vamos construir isso.
+
+32
+00:01:10,277 --> 00:01:11,583
+Doanopolis.
+
+33
+00:01:11,645 --> 00:01:13,112
+Dê-o-cano.
+
+34
+00:01:13,117 --> 00:01:14,742
+Não, espere.
+
+35
+00:01:14,747 --> 00:01:16,112
+A Ajuda Canyon.
+
+36
+00:01:16,117 --> 00:01:18,752
+Vai ficar ótimo em uma camiseta.
+
+37
+00:01:18,757 --> 00:01:20,112
+Que tamanho vocês vestem?
+
+38
+00:01:20,117 --> 00:01:22,085
+Isso é inútil.
+Posso desligar na cara dele?
+
+39
+00:01:22,117 --> 00:01:23,622
+Sheldon, devo lembrá-lo
+
+40
+00:01:23,627 --> 00:01:26,122
+que ele está financiando
+todo o projeto.
+
+41
+00:01:26,127 --> 00:01:27,492
+Deve se sentir incluso.
+
+42
+00:01:27,497 --> 00:01:29,422
+Tudo bem.
+
+43
+00:01:29,966 --> 00:01:31,621
+Ajuda Canyon
+é um nome terrível.
+
+44
+00:01:31,622 --> 00:01:33,632
+Parece um lugar onde
+as coisas vão pra morrer.
+
+45
+00:01:33,637 --> 00:01:35,911
+- Sheldon.
+- Estou o incluindo.
+
+46
+00:01:37,094 --> 00:01:39,094
+Tec Subs e United,
+à beira de um precipício,
+
+47
+00:01:39,104 --> 00:01:41,104
+apresentam:
+Young Sheldon - 06x11
+
+48
+00:01:41,126 --> 00:01:43,171
+Ruthless, Toothless
+and a Week of Bed Rest
+
+49
+00:01:43,181 --> 00:01:45,181
+Episódio exibido em:
+02/02/2023
+
+50
+00:01:45,191 --> 00:01:47,191
+Bazingudinhos:
+Cancer Man ~ Vitckari
+
+51
+00:01:47,201 --> 00:01:49,201
+Bazingudinhas:
+Suzyane ~ Lisa Simpson
+
+52
+00:01:49,211 --> 00:01:51,211
+twitter.com/Unitedteam
+facebook.com/Tec.Subs
+
+53
+00:01:51,221 --> 00:01:53,221
+Viu algo errado?
+Comunica a gente!
+
+54
+00:01:53,231 --> 00:01:55,023
+Críticas construtivas são
+sempre aceitas!
+
+55
+00:01:56,527 --> 00:01:58,492
+Como está se sentindo?
+
+56
+00:01:58,497 --> 00:02:00,652
+Gorda e nojenta.
+
+57
+00:02:00,657 --> 00:02:03,922
+Quero dizer, está tendo
+algum desconforto, fadiga?
+
+58
+00:02:03,927 --> 00:02:05,492
+Sim, é tudo que tenho.
+
+59
+00:02:05,497 --> 00:02:08,192
+Acho que ela está dizendo que
+se sente grávida de oito meses.
+
+60
+00:02:08,197 --> 00:02:09,862
+Oito.
+Oitocentos.
+
+61
+00:02:09,867 --> 00:02:11,902
+Desculpe, estou atrasado.
+
+62
+00:02:12,712 --> 00:02:14,107
+Só um lembrete, doutor,
+
+63
+00:02:14,112 --> 00:02:15,416
+Não quero saber o sexo.
+
+64
+00:02:15,440 --> 00:02:17,362
+- Quero que seja surpresa.
+- Espere, espere.
+
+65
+00:02:18,087 --> 00:02:19,572
+Se estamos aqui,
+
+66
+00:02:19,752 --> 00:02:22,816
+quem está tomando conta
+da lavanderia, da locadora, e...
+
+67
+00:02:23,316 --> 00:02:24,782
+do outro estabelecimento?
+
+68
+00:02:24,787 --> 00:02:26,252
+A sala de jogos?
+
+69
+00:02:27,387 --> 00:02:30,052
+Está bem. Perdi cem dólares lá
+na semana passada.
+
+70
+00:02:31,627 --> 00:02:33,722
+Então sabe que temos
+para a conta.
+
+71
+00:02:33,727 --> 00:02:35,922
+De volta para mim.
+
+72
+00:02:35,927 --> 00:02:37,922
+Como está no forninho?
+
+73
+00:02:37,927 --> 00:02:39,232
+O bebê parece bem,
+
+74
+00:02:39,237 --> 00:02:41,462
+mas estou preocupado
+com sua pressão arterial.
+
+75
+00:02:41,467 --> 00:02:43,362
+Acha que é pré-eclâmpsia?
+
+76
+00:02:43,367 --> 00:02:45,232
+Georgie, deixe o médico falar.
+
+77
+00:02:45,237 --> 00:02:46,732
+Na verdade, é uma possibilidade.
+
+78
+00:02:46,737 --> 00:02:48,372
+Eu li o livro.
+Você leu?
+
+79
+00:02:48,377 --> 00:02:50,454
+Gostaria de colocá-la
+em repouso por uma semana
+
+80
+00:02:50,485 --> 00:02:52,165
+e depois examiná-la novamente.
+
+81
+00:02:52,634 --> 00:02:54,641
+- Isso é mesmo necessário?
+- Sim, é.
+
+82
+00:02:56,117 --> 00:02:58,882
+Dr. Linkletter, tenho uma
+pergunta sobre a palestra hoje.
+
+83
+00:02:58,887 --> 00:03:00,582
+Me desculpe, quem é você?
+
+84
+00:03:00,587 --> 00:03:03,352
+- Você deve ser Sheldon.
+- Sou.
+
+85
+00:03:03,357 --> 00:03:05,252
+Me instruiram
+a não falar com você.
+
+86
+00:03:05,257 --> 00:03:08,122
+- Por que?
+- Me instruiram a não te contar.
+
+87
+00:03:08,127 --> 00:03:10,262
+Vejo que conheceu Toby.
+
+88
+00:03:10,267 --> 00:03:12,092
+Não conheci.
+Ele não quis dizer seu nome.
+
+89
+00:03:12,097 --> 00:03:14,962
+Bom homem.
+Em que posso ajudá-lo, Sheldon?
+
+90
+00:03:14,967 --> 00:03:16,502
+O que é tudo isso?
+
+91
+00:03:16,928 --> 00:03:19,944
+Parece algoritmos para
+um banco de dados pesquisável.
+
+92
+00:03:19,999 --> 00:03:21,972
+À primeira vista,
+qualquer coisa pode parecer
+
+93
+00:03:21,977 --> 00:03:24,069
+um algoritmo para um
+banco de dados pesquisável.
+
+94
+00:03:25,377 --> 00:03:28,472
+Tá, é um algoritmo para
+um banco de dados pesquisável.
+
+95
+00:03:28,477 --> 00:03:29,882
+Essa foi a minha ideia.
+
+96
+00:03:29,887 --> 00:03:32,112
+Deve se lembrar,
+a ideia foi nossa.
+
+97
+00:03:32,717 --> 00:03:35,252
+Você está programando
+um banco de dados para ele?
+
+98
+00:03:35,257 --> 00:03:38,022
+- Vá em frente.
+- Sim.
+
+99
+00:03:38,027 --> 00:03:39,652
+Sim.
+
+100
+00:03:39,657 --> 00:03:42,292
+Como ousa roubar minha ideia
+de banco de dados de bolsas?
+
+101
+00:03:42,297 --> 00:03:44,922
+Olha, o Dr. Linkletter
+fez parte da ideia,
+
+102
+00:03:44,962 --> 00:03:46,827
+ele é funcionário
+da universidade,
+
+103
+00:03:46,856 --> 00:03:48,898
+e, portanto, temos
+créditos legítimos a ele.
+
+104
+00:03:48,922 --> 00:03:51,773
+Mas já estou fazendo um.
+Tenho até investidor alinhado.
+
+105
+00:03:51,820 --> 00:03:54,002
+Você é mais do que bem-vindo
+para se juntar a nós,
+
+106
+00:03:54,007 --> 00:03:55,748
+e todos podemos trabalhar
+nisso juntos.
+
+107
+00:03:55,811 --> 00:03:58,226
+Não, a ideia é minha e
+estou fazendo isso sozinho.
+
+108
+00:03:58,460 --> 00:04:00,942
+Acho que veremos
+quem chega primeiro ao mercado.
+
+109
+00:04:01,292 --> 00:04:02,612
+Acho que sim.
+
+110
+00:04:02,617 --> 00:04:06,082
+- E aí, já começou a programar?
+- Não.
+
+111
+00:04:06,087 --> 00:04:08,412
+- Tem acesso a um mainframe?
+- Depende.
+
+112
+00:04:08,417 --> 00:04:11,352
+Posso usar o mainframe
+da universidade?
+
+113
+00:04:11,357 --> 00:04:13,427
+- Não.
+- Então ainda estamos começando.
+
+114
+00:04:13,560 --> 00:04:14,864
+Entendo.
+
+115
+00:04:14,895 --> 00:04:16,247
+Já temos um nome, não?
+
+116
+00:04:16,327 --> 00:04:18,748
+De fato, temos.
+O chamamos de Garantido.
+
+117
+00:04:20,006 --> 00:04:22,202
+- Esse nome é tão bom.
+- Obrigado.
+
+118
+00:04:22,207 --> 00:04:24,207
+E qual é o seu?
+
+119
+00:04:25,377 --> 00:04:26,807
+Deixa para lá.
+
+120
+00:04:30,377 --> 00:04:33,042
+Olha o que sua máquina
+fez com minha calcinha.
+
+121
+00:04:33,047 --> 00:04:34,772
+Tornou-a enorme?
+
+122
+00:04:34,777 --> 00:04:36,667
+Tingiu de rosa.
+
+123
+00:04:36,722 --> 00:04:39,552
+Certo. Tome. A próxima
+lavagem é por nossa conta.
+
+124
+00:04:39,557 --> 00:04:41,312
+Tenho que olhar algo
+lá atrás.
+
+125
+00:04:42,017 --> 00:04:44,682
+Desculpe, estou com poucos
+funcionários hoje.
+
+126
+00:04:44,687 --> 00:04:48,222
+Tenho corrido como
+uma galinha sem cabeça.
+
+127
+00:04:48,227 --> 00:04:49,792
+Tudo bem.
+
+128
+00:04:49,797 --> 00:04:51,962
+Aí está seu ursinho de pelúcia.
+
+129
+00:04:51,967 --> 00:04:53,332
+Aqui está o seu dinheiro.
+
+130
+00:04:53,337 --> 00:04:55,702
+Urso Teddy.
+Dinheiro.
+
+131
+00:04:55,707 --> 00:04:57,062
+Urso Teddy.
+
+132
+00:04:57,067 --> 00:04:59,102
+Isso é um ticket
+de lavagem a seco.
+
+133
+00:04:59,107 --> 00:05:00,462
+Saia daqui.
+
+134
+00:05:01,237 --> 00:05:03,747
+Podrão!
+
+135
+00:05:05,747 --> 00:05:07,347
+Espere, eu já volto.
+
+136
+00:05:08,647 --> 00:05:11,712
+- Ei, tudo certo?
+- Sim.
+
+137
+00:05:11,717 --> 00:05:13,212
+Esse é um muito bom.
+
+138
+00:05:13,217 --> 00:05:15,652
+- Você deveria levá-lo.
+- Não sei...
+
+139
+00:05:15,657 --> 00:05:17,882
+Não sabe? Whoopi Goldberg
+como uma freira cantora?
+
+140
+00:05:17,887 --> 00:05:20,692
+- O que há para pensar?
+- Talvez queira mais ação.
+
+141
+00:05:20,697 --> 00:05:22,322
+Ela está fugindo da máfia.
+
+142
+00:05:22,327 --> 00:05:24,167
+Você vai adorar. Vou anotar.
+
+143
+00:05:25,097 --> 00:05:26,992
+Como você está?
+
+144
+00:05:26,997 --> 00:05:31,502
+Estou deitadinha e uma senhora
+simpática me trazendo comida.
+
+145
+00:05:31,507 --> 00:05:32,832
+Não tá tão mal...
+
+146
+00:05:32,837 --> 00:05:36,042
+Bem, você ainda não provou.
+O médico disse sem sal.
+
+147
+00:05:36,047 --> 00:05:37,375
+Tenho certeza que está ótimo.
+
+148
+00:05:37,400 --> 00:05:39,250
+Eu provei. É uma merda.
+
+149
+00:05:40,143 --> 00:05:43,208
+De qualquer forma, é melhor dar
+uma mãozinha ao Georgie.
+
+150
+00:05:43,289 --> 00:05:46,352
+Aqui está o telefone.
+
+151
+00:05:46,357 --> 00:05:48,042
+Precisa de mais alguma coisa?
+
+152
+00:05:48,067 --> 00:05:49,698
+Não acho o controle remoto.
+
+153
+00:05:49,723 --> 00:05:52,852
+Bem, não deve ter ido longe.
+Vamos ver.
+
+154
+00:05:52,857 --> 00:05:55,362
+Deixe-me ver aqui embaixo.
+
+155
+00:05:55,767 --> 00:05:57,862
+Aqui está.
+
+156
+00:05:58,921 --> 00:06:01,197
+- Oh! Minhas costas!
+- Você está bem?
+
+157
+00:06:01,202 --> 00:06:03,303
+- Não!
+- Tudo bem. Deixe-me ajudá-la.
+
+158
+00:06:03,328 --> 00:06:05,632
+Não não. Não não.
+Estou bem. Estou bem.
+
+159
+00:06:05,637 --> 00:06:07,772
+Estou só... Deixe-me
+deitar aqui só um minuto.
+
+160
+00:06:07,777 --> 00:06:09,442
+Posso pegar gelo
+ou algo assim?
+
+161
+00:06:09,447 --> 00:06:11,572
+Não não não. Você tem que ficar
+na cama.
+
+162
+00:06:11,577 --> 00:06:15,412
+Bem, você parece a senhora
+"caí e não consigo me levantar".
+
+163
+00:06:15,417 --> 00:06:18,882
+Isso é porque eu caí e
+não consigo me levantar.
+
+164
+00:06:19,917 --> 00:06:21,782
+Dói quando eu rio.
+
+165
+00:06:23,687 --> 00:06:24,997
+Aqui, querida.
+
+166
+00:06:25,022 --> 00:06:26,792
+- Aqui está.
+- Obrigada.
+
+167
+00:06:35,304 --> 00:06:37,571
+Jesus amado, deixe-me ajudá-la.
+
+168
+00:06:37,596 --> 00:06:39,330
+Não me toque.
+Não me toque.
+
+169
+00:06:39,369 --> 00:06:40,929
+Vou levantar
+quando estiver bem.
+
+170
+00:06:40,934 --> 00:06:44,739
+- Devo chamar o médico?
+- Não. Acontece às vezes.
+
+171
+00:06:44,744 --> 00:06:46,544
+Eu só preciso ter
+calma por alguns dias.
+
+172
+00:06:46,549 --> 00:06:48,454
+Então vou ficar bem.
+
+173
+00:06:48,459 --> 00:06:49,964
+Bem, posso te dar um
+travesseiro?
+
+174
+00:06:49,969 --> 00:06:52,269
+Um travesseiro seria bom.
+
+175
+00:06:53,739 --> 00:06:55,269
+Aqui.
+
+176
+00:06:56,669 --> 00:06:58,204
+E o que está acontecendo
+com você?
+
+177
+00:06:58,209 --> 00:07:00,604
+Ah, pressão alta. O médico
+quer que eu fique de cama.
+
+178
+00:07:00,609 --> 00:07:02,574
+Provavelmente preocupado
+com pré-eclâmpsia.
+
+179
+00:07:02,579 --> 00:07:04,974
+Todo mundo leu este livro?
+
+180
+00:07:04,979 --> 00:07:08,144
+Bem, posso tirar folga
+e cuidar de vocês.
+
+181
+00:07:08,149 --> 00:07:10,814
+- Nós estamos bem.
+- Bem? Você está no chão.
+
+182
+00:07:10,819 --> 00:07:13,014
+O que acontece se
+precisar usar o banheiro?
+
+183
+00:07:13,019 --> 00:07:14,884
+Depende.
+
+184
+00:07:14,889 --> 00:07:16,424
+Depende do quê?
+
+185
+00:07:17,069 --> 00:07:18,424
+É uma piada.
+
+186
+00:07:19,928 --> 00:07:21,295
+Eu entendi.
+
+187
+00:07:22,210 --> 00:07:23,599
+Qual é a piada?
+
+188
+00:07:25,339 --> 00:07:26,894
+Diga-me.
+
+189
+00:07:29,109 --> 00:07:32,204
+Alô, escritório do Sr. O'Brien.
+
+190
+00:07:32,209 --> 00:07:33,774
+O Sr. O'Brien está aí?
+
+191
+00:07:33,779 --> 00:07:35,913
+É o John Sturgis e
+o Sheldon Cooper.
+
+192
+00:07:35,938 --> 00:07:37,304
+Sou eu.
+
+193
+00:07:37,309 --> 00:07:39,845
+Só estava checando que
+não era a Receita. O que foi?
+
+194
+00:07:39,849 --> 00:07:41,216
+Tenho notícias preocupantes.
+
+195
+00:07:41,241 --> 00:07:43,984
+A universidade está criando um
+database de bolsas concorrente.
+
+196
+00:07:43,989 --> 00:07:45,854
+- A ideia não foi sua?
+- Foi,
+
+197
+00:07:45,859 --> 00:07:48,154
+mas o Dr. Linkletter
+afirma que me ajudou.
+
+198
+00:07:48,159 --> 00:07:50,025
+Não há nada de errado
+com concorrência.
+
+199
+00:07:50,029 --> 00:07:51,330
+Acha que fui
+a única pessoa
+
+200
+00:07:51,334 --> 00:07:53,724
+projetando móveis de laboratório
+antiestáticos?
+
+201
+00:07:53,729 --> 00:07:55,424
+- Não?
+- Não.
+
+202
+00:07:55,429 --> 00:07:58,634
+Pesquisei, superei
+os lances dos fabricantes
+
+203
+00:07:58,639 --> 00:08:01,239
+e os pus na corte por tanto
+tempo que ficaram sem dinheiro.
+
+204
+00:08:01,264 --> 00:08:03,134
+Isso parece um pouco implacável.
+
+205
+00:08:03,139 --> 00:08:06,623
+Ei, se você não é
+implacável, você é desdentado.
+
+206
+00:08:06,760 --> 00:08:08,115
+Eu gosto disso.
+
+207
+00:08:08,140 --> 00:08:09,774
+Eu sei. Isso rima.
+
+208
+00:08:09,779 --> 00:08:12,174
+Mas a universidade
+já está à nossa frente.
+
+209
+00:08:12,179 --> 00:08:15,814
+Sim, mas eles têm um
+nome de empresa muito legal?
+
+210
+00:08:15,819 --> 00:08:18,384
+Sim, vão chamá-lo de Concedido.
+
+211
+00:08:18,389 --> 00:08:20,614
+Droga, estava bem ali.
+
+212
+00:08:20,619 --> 00:08:23,624
+Certo, não posso
+cobrir a locadora, a
+
+213
+00:08:23,629 --> 00:08:25,924
+lavanderia e a outra
+sala ao mesmo tempo.
+
+214
+00:08:25,929 --> 00:08:27,694
+Eu quero trabalhar
+na outra sala.
+
+215
+00:08:27,699 --> 00:08:29,357
+Não vai trabalhar na outra sala.
+
+216
+00:08:29,382 --> 00:08:32,164
+- Eu fico na outra.
+- Fico na locadora de vídeo.
+
+217
+00:08:32,169 --> 00:08:34,064
+Eu queria a locadora de vídeo.
+
+218
+00:08:34,069 --> 00:08:35,404
+Azar seu... Falei primeiro.
+
+219
+00:08:35,409 --> 00:08:37,304
+Ótimo, você fica com
+a lavanderia.
+
+220
+00:08:37,309 --> 00:08:38,774
+Mas eu não quero a lavanderia.
+
+221
+00:08:38,779 --> 00:08:40,504
+Perdeu mané...
+Ela falou primeiro.
+
+222
+00:08:40,509 --> 00:08:42,074
+Ele é um bom chefe.
+
+223
+00:08:42,099 --> 00:08:43,569
+Tem razão.
+
+224
+00:08:44,579 --> 00:08:45,887
+Devagar...
+
+225
+00:08:48,054 --> 00:08:49,373
+Devagar!
+
+226
+00:08:49,398 --> 00:08:51,344
+Mais devagar que isso é
+ficar em pé.
+
+227
+00:08:51,349 --> 00:08:53,654
+Olha, eu me viro, ta?
+Apenas me deixe a sós.
+
+228
+00:08:53,659 --> 00:08:56,889
+Tudo bem. Vou verificar a Mandy.
+
+229
+00:08:58,599 --> 00:09:00,154
+Devagar.
+
+230
+00:09:02,408 --> 00:09:03,809
+Você está bem?
+
+231
+00:09:04,802 --> 00:09:06,134
+Estou bem.
+
+232
+00:09:06,139 --> 00:09:08,134
+Você não precisa
+se preocupar comigo.
+
+233
+00:09:08,591 --> 00:09:10,461
+Eu não me importo.
+
+234
+00:09:11,209 --> 00:09:14,424
+Eu agradeço. Estou acostumada
+a cuidar de mim mesma.
+
+235
+00:09:14,580 --> 00:09:17,320
+É para isso que serve a família.
+
+236
+00:09:18,209 --> 00:09:21,292
+Falando nisso, quer
+que eu chame a sua?
+
+237
+00:09:21,317 --> 00:09:22,684
+Por que?
+
+238
+00:09:22,689 --> 00:09:26,184
+Se minha filha estivesse de
+repouso, eu gostaria de saber.
+
+239
+00:09:26,189 --> 00:09:29,055
+Se quiserem saber como estou,
+podem pegar o telefone e ligar.
+
+240
+00:09:29,059 --> 00:09:32,624
+Se sua mãe soubesse o que está
+passando, estaria ajudando.
+
+241
+00:09:32,629 --> 00:09:35,886
+Eu disse à minha mãe da gravidez
+e ela parou de falar comigo...
+
+242
+00:09:35,911 --> 00:09:37,213
+Eu sei mas...
+
+243
+00:09:37,238 --> 00:09:38,878
+Não é da sua conta, Mary.
+
+244
+00:09:41,199 --> 00:09:43,105
+Tá... Desculpe.
+
+245
+00:09:50,579 --> 00:09:52,344
+Olá, Tobi.
+
+246
+00:09:52,349 --> 00:09:54,144
+Eu não deveria falar com você.
+
+247
+00:09:54,149 --> 00:09:56,471
+Mas ninguém te disse para
+não falar comigo.
+
+248
+00:09:56,496 --> 00:09:57,809
+O que vocês querem?
+
+249
+00:09:57,834 --> 00:09:59,456
+Queremos oferecer-lhe
+um emprego.
+
+250
+00:09:59,489 --> 00:10:01,414
+E para você lavar as mãos.
+
+251
+00:10:01,416 --> 00:10:04,154
+- Eu já tenho um emprego.
+- Nós sabemos.
+
+252
+00:10:04,156 --> 00:10:08,024
+Queremos que você faça a mesma
+coisa, mas por mais dinheiro.
+
+253
+00:10:08,429 --> 00:10:09,769
+Está bem.
+
+254
+00:10:11,269 --> 00:10:13,994
+Sério, só isso?
+Onde está a lealdade?
+
+255
+00:10:13,996 --> 00:10:16,204
+Sheldon, é isso que queremos.
+
+256
+00:10:16,206 --> 00:10:17,756
+Eu sei,
+mas e se alguém aparecer
+
+257
+00:10:17,758 --> 00:10:19,958
+e oferecer mais dinheiro?
+Ele vai nos deixar?
+
+258
+00:10:19,960 --> 00:10:22,648
+- Você vai?
+- Provavelmente.
+
+259
+00:10:23,949 --> 00:10:26,681
+Podemos contratá-lo, mas
+não irá ao banheiro sozinho.
+
+260
+00:10:27,149 --> 00:10:28,649
+Bem vindo a bordo.
+
+261
+00:10:28,651 --> 00:10:30,781
+Ei, ei, ei.
+Lave as mãos.
+
+262
+00:10:36,729 --> 00:10:38,524
+Se quer algo para assistir,
+
+263
+00:10:38,526 --> 00:10:40,050
+recomendo
+A Princesa Prometida.
+
+264
+00:10:40,052 --> 00:10:42,659
+- Sério?
+- Sei que soa feminino,
+
+265
+00:10:42,661 --> 00:10:44,259
+mas há uma luta
+de espadas
+
+266
+00:10:44,261 --> 00:10:45,850
+e André, o Gigante, está nele.
+
+267
+00:10:46,539 --> 00:10:48,285
+Legal. Obrigado.
+
+268
+00:10:48,287 --> 00:10:49,687
+Apenas fazendo meu trabalho.
+
+269
+00:10:50,939 --> 00:10:53,208
+A propósito, eu sou a Melissa.
+
+270
+00:10:55,908 --> 00:10:57,444
+<i>Nós deveríamos estar juntos...</i>
+
+271
+00:10:57,446 --> 00:10:58,953
+Precisa de ajuda aqui?
+
+272
+00:11:00,079 --> 00:11:02,644
+Você está tentando
+tocar minha calcinha?
+
+273
+00:11:02,646 --> 00:11:04,289
+Não, senhora.
+
+274
+00:11:04,291 --> 00:11:06,746
+Bem, então afaste-se.
+
+275
+00:11:07,048 --> 00:11:08,595
+Sim, senhora.
+
+276
+00:11:10,429 --> 00:11:13,026
+Eu sabia.
+Você roubou meu programador.
+
+277
+00:11:13,028 --> 00:11:14,924
+Você roubou a ideia dele.
+
+278
+00:11:14,926 --> 00:11:17,025
+Toby,
+o que aconteceu com a lealdade?
+
+279
+00:11:17,027 --> 00:11:18,663
+É irritante, não é?
+
+280
+00:11:19,369 --> 00:11:20,786
+Há um velho ditado:
+
+281
+00:11:20,788 --> 00:11:23,652
+"Se mexe com o touro,
+pode levar uma chifrada".
+
+282
+00:11:23,654 --> 00:11:24,966
+Há um novo ditado:
+
+283
+00:11:24,968 --> 00:11:26,618
+"Temos um programador
+e você não".
+
+284
+00:11:26,620 --> 00:11:29,033
+- Sim.
+<i>- Sério</i>?
+
+285
+00:11:29,035 --> 00:11:31,026
+Roubaram nosso programador?
+
+286
+00:11:31,028 --> 00:11:33,314
+Deixei-o sozinho por 5
+minutos no banheiro.
+
+287
+00:11:33,316 --> 00:11:34,914
+Não sei por que
+está surpreso.
+
+288
+00:11:34,916 --> 00:11:36,732
+Disseram-me que o negócio
+é arriscado
+
+289
+00:11:36,734 --> 00:11:38,784
+onde se não é implacável,
+é desdentado.
+
+290
+00:11:38,786 --> 00:11:40,114
+Acabamos de aprender isso.
+
+291
+00:11:40,116 --> 00:11:41,614
+Poderia ter contratado outro.
+
+292
+00:11:41,616 --> 00:11:43,384
+Incertezas.
+
+293
+00:11:43,386 --> 00:11:45,930
+Você quer jogar duro?
+Podemos fazer isso também.
+
+294
+00:11:46,199 --> 00:11:49,164
+Você vê, Sheldon recebe muitas
+regalias nesta universidade
+
+295
+00:11:49,166 --> 00:11:51,424
+isso pode
+desaparecer muito rápido.
+
+296
+00:11:51,426 --> 00:11:52,964
+Mas gosto
+das minhas vantagens.
+
+297
+00:11:52,966 --> 00:11:55,164
+Gostaria de ter um
+colega de quarto ou dois
+
+298
+00:11:55,166 --> 00:11:57,004
+naquele seu dormitório?
+
+299
+00:11:57,006 --> 00:11:59,001
+Vamos dar a ela o que ela quer.
+
+300
+00:11:59,003 --> 00:12:00,434
+Aguente firme.
+
+301
+00:12:00,436 --> 00:12:04,104
+Você precisa de nós tanto
+quanto precisamos de você.
+
+302
+00:12:04,106 --> 00:12:05,914
+Agora, por exemplo, temos
+
+303
+00:12:05,916 --> 00:12:08,114
+um computador mainframe
+e você não.
+
+304
+00:12:08,116 --> 00:12:12,014
+Sem mainframe, sem banco de
+dados. Quem é banguelo agora?
+
+305
+00:12:12,016 --> 00:12:14,317
+Podemos ter
+nosso próprio mainframe.
+
+306
+00:12:14,319 --> 00:12:16,984
+Podemos?
+Eles são muito caros.
+
+307
+00:12:16,986 --> 00:12:19,309
+Estou tentando ser implacável.
+Trabalhe comigo.
+
+308
+00:12:19,811 --> 00:12:21,334
+Podemos.
+
+309
+00:12:27,922 --> 00:12:31,157
+Ei. Trouxe um lanche
+e algumas revistas.
+
+310
+00:12:31,159 --> 00:12:34,257
+Obrigada, mas eu
+deveria terminar isso.
+
+311
+00:12:34,259 --> 00:12:36,127
+Embora eu saiba como termina.
+
+312
+00:12:36,129 --> 00:12:39,027
+Com fluidos corporais.
+Em toda parte.
+
+313
+00:12:39,029 --> 00:12:41,265
+E então um doce menino
+ou menina.
+
+314
+00:12:42,129 --> 00:12:44,328
+É uma menina.
+
+315
+00:12:44,742 --> 00:12:46,107
+Sério?
+
+316
+00:12:46,109 --> 00:12:48,437
+Sim, Georgie não queria
+saber, então não disse.
+
+317
+00:12:48,439 --> 00:12:51,007
+Bem, isso é maravilhoso!
+
+318
+00:12:51,009 --> 00:12:52,968
+Será o nosso segredinho.
+
+319
+00:12:52,970 --> 00:12:56,486
+<i>Eu já sei!
+Não vá se sentindo especial.</i>
+
+320
+00:12:56,488 --> 00:12:59,278
+Você se importa?
+Estamos tendo um momento aqui.
+
+321
+00:13:00,322 --> 00:13:03,617
+<i>- Continue.</i>
+- Como você pode ver,
+
+322
+00:13:03,619 --> 00:13:05,427
+o vínculo mãe-filha é forte.
+
+323
+00:13:05,429 --> 00:13:08,862
+Bem, comparado a mim e minha
+mãe, vocês duas são mágicas.
+
+324
+00:13:08,864 --> 00:13:11,631
+Bem,
+tivemos nossos altos e baixos.
+
+325
+00:13:13,172 --> 00:13:16,223
+Ela não era a mãe
+mais fácil enquanto eu crescia.
+
+326
+00:13:16,225 --> 00:13:18,837
+Às vezes eu sentia como
+se estivesse me criando.
+
+327
+00:13:18,839 --> 00:13:22,411
+Mas agora somos praticamente
+melhores amigas.
+
+328
+00:13:22,439 --> 00:13:25,518
+Sim, acho que isso não está nas
+cartas para mim e minha mãe.
+
+329
+00:13:25,520 --> 00:13:29,317
+<i>Eu ouço vocês sussurrando.
+Não dê ouvidos a ela, Mandy.</i>
+
+330
+00:13:29,319 --> 00:13:31,017
+Querido Senhor,
+apenas disse a ela
+
+331
+00:13:31,019 --> 00:13:32,955
+como você e eu
+somos melhores amigas!
+
+332
+00:13:33,219 --> 00:13:35,911
+<i>É assim que você fala
+com sua melhor amiga?</i>
+
+333
+00:13:37,922 --> 00:13:39,657
+Tudo funcionando bem
+para você?
+
+334
+00:13:39,659 --> 00:13:43,192
+Ouvi sobre você. É aquele
+cheirador de calcinhas.
+
+335
+00:13:43,194 --> 00:13:45,726
+Não. Não, não, não,
+não cheirei nada.
+
+336
+00:13:45,728 --> 00:13:47,402
+Bárbara,
+ele está fazendo de novo.
+
+337
+00:13:48,802 --> 00:13:51,466
+Não. Não. Eu desisto.
+
+338
+00:13:51,872 --> 00:13:53,537
+Estou obcecada
+por filmes antigos.
+
+339
+00:13:53,539 --> 00:13:57,107
+Clube dos Cinco, Os Goonies,
+A Garota de Rosa Shocking.
+
+340
+00:13:57,109 --> 00:13:59,065
+Ei. Como está indo?
+
+341
+00:13:59,067 --> 00:14:00,557
+Bem. Tchau.
+
+342
+00:14:00,559 --> 00:14:03,378
+Não há muito na lavanderia.
+Pensei em te ajudar.
+
+343
+00:14:03,382 --> 00:14:05,795
+Não, tudo bem.
+Vá verificar Georgie.
+
+344
+00:14:05,797 --> 00:14:07,247
+Tudo bem.
+
+345
+00:14:07,249 --> 00:14:10,000
+Então, você vai fazer
+alguma coisa mais tarde?
+
+346
+00:14:10,892 --> 00:14:13,762
+Sim, ela vai para casa
+com o pai.
+
+347
+00:14:13,764 --> 00:14:15,227
+Pai.
+
+348
+00:14:15,229 --> 00:14:17,090
+Me desculpe, senhor,
+eu não sabia.
+
+349
+00:14:17,092 --> 00:14:19,327
+Sim, sabia que ela
+está na sétima série?
+
+350
+00:14:19,329 --> 00:14:21,297
+- Pai!
+- Achei que ela era mais velha.
+
+351
+00:14:21,299 --> 00:14:22,916
+Bem, agora você sabe.
+Cai fora.
+
+352
+00:14:22,918 --> 00:14:24,218
+Certo.
+
+353
+00:14:26,612 --> 00:14:30,009
+- Você está feliz?
+- Ele é muito velho para você.
+
+354
+00:14:30,011 --> 00:14:31,312
+Já viu você e mamãe?
+
+355
+00:14:31,314 --> 00:14:34,107
+Ei, sua mãe e eu éramos
+namorados no ensino médio.
+
+356
+00:14:34,109 --> 00:14:36,890
+Ela estava no ensino médio.
+Você tinha, tipo, 25.
+
+357
+00:14:37,279 --> 00:14:39,529
+As pessoas pareciam
+mais velhas naquela época.
+
+358
+00:14:42,292 --> 00:14:45,257
+- Olá?
+- Vim instalar alguns beliches.
+
+359
+00:14:45,259 --> 00:14:47,608
+Mas não preciso de beliches.
+Moro sozinho.
+
+360
+00:14:47,610 --> 00:14:49,893
+Só o que sei é que este será
+um quarto triplo.
+
+361
+00:14:50,399 --> 00:14:51,727
+Triplo?
+
+362
+00:14:51,729 --> 00:14:54,338
+Isso está ficando sério.
+Eles estão jogando duro.
+
+363
+00:14:54,340 --> 00:14:56,438
+E é mais um jogo
+em que sou ruim.
+
+364
+00:14:56,440 --> 00:14:58,123
+<i>Apenas se acalme.</i>
+Tenho certeza que
+
+365
+00:14:58,135 --> 00:14:59,940
+posso encontrar
+um mainframe usado.
+
+366
+00:14:59,941 --> 00:15:01,567
+Onde? Como?
+De quem?
+
+367
+00:15:01,568 --> 00:15:04,107
+Não sei, mas Júpiter
+acabou de entrar em Sagitário,
+
+368
+00:15:04,108 --> 00:15:05,547
+tenho um bom pressentimento.
+
+369
+00:15:06,025 --> 00:15:08,079
+Não está
+me passando confiança, Gary.
+
+370
+00:15:08,080 --> 00:15:10,975
+Adolescentes...
+Sempre tão angustiados.
+
+371
+00:15:10,976 --> 00:15:12,350
+<i>Eu adoro isso.</i>
+
+372
+00:15:28,202 --> 00:15:29,515
+Oi, mãe, sou eu.
+
+373
+00:15:31,057 --> 00:15:33,369
+Não, nenhum problema.
+Só liguei para conversar.
+
+374
+00:15:36,042 --> 00:15:38,312
+Não, não estou ligando
+para me desculpar.
+
+375
+00:15:38,758 --> 00:15:40,457
+<i>Não, não preciso de dinheiro.</i>
+
+376
+00:15:41,412 --> 00:15:43,219
+<i>Não, não preciso
+de nada de você.</i>
+
+377
+00:15:43,220 --> 00:15:44,917
+Quer saber? Isso foi um erro.
+
+378
+00:15:44,918 --> 00:15:46,232
+Sim, adeus.
+
+379
+00:15:53,607 --> 00:15:55,197
+Oi. Bem-vindo ao Video Village.
+
+380
+00:15:55,198 --> 00:15:57,843
+Sou a Missy, estou
+na sétima série, esse é meu pai.
+
+381
+00:15:58,779 --> 00:16:00,866
+Oi. Eu sou o Carl,
+
+382
+00:16:00,867 --> 00:16:04,025
+tenho 31 anos
+e meu pai está morto.
+
+383
+00:16:04,842 --> 00:16:07,019
+Sim, peço desculpas por ela.
+
+384
+00:16:07,020 --> 00:16:08,462
+E sinto muito pelo seu pai.
+
+385
+00:16:09,854 --> 00:16:11,165
+O que está fazendo?
+
+386
+00:16:11,166 --> 00:16:13,232
+Te poupando o trabalho
+de me envergonhar.
+
+387
+00:16:13,782 --> 00:16:16,530
+Olha, não é fácil ver você
+conversando com rapazes.
+
+388
+00:16:16,967 --> 00:16:18,597
+Ainda mais, rapazes mais velhos.
+
+389
+00:16:18,598 --> 00:16:20,119
+Quer saber o que não é fácil?
+
+390
+00:16:20,120 --> 00:16:21,422
+Ouvir o Billy Sparks falar
+
+391
+00:16:21,423 --> 00:16:23,503
+sobre você e a mãe dele
+no galinheiro.
+
+392
+00:16:24,730 --> 00:16:26,030
+Quê?
+
+393
+00:16:26,031 --> 00:16:28,399
+Ele disse que viu vocês
+saindo de lá outro dia.
+
+394
+00:16:30,255 --> 00:16:31,629
+Falamos de galinhas.
+
+395
+00:16:31,630 --> 00:16:33,702
+E ele disse
+que não foi a primeira vez.
+
+396
+00:16:34,817 --> 00:16:36,278
+Eles têm muitas galinhas.
+
+397
+00:16:38,440 --> 00:16:40,236
+Agora tem beliches
+no meu quarto?
+
+398
+00:16:40,237 --> 00:16:42,695
+É como acampamento de verão.
+2 palavras que odeio.
+
+399
+00:16:42,696 --> 00:16:45,649
+Às vezes, colegas de quarto
+se tornam amigos para a vida.
+
+400
+00:16:45,650 --> 00:16:48,480
+Ainda troco cartas
+com meu colega de quarto
+
+401
+00:16:48,481 --> 00:16:49,847
+do hospital psiquiátrico.
+
+402
+00:16:49,848 --> 00:16:52,339
+Estão escritos em um idioma
+que ele inventou,
+
+403
+00:16:52,784 --> 00:16:54,920
+mas é bom saber
+que ele se importa.
+
+404
+00:16:55,878 --> 00:16:57,989
+Tenho uma entrega
+para Sheldon Cooper.
+
+405
+00:16:57,990 --> 00:16:59,299
+Sou eu. O que é isso?
+
+406
+00:16:59,300 --> 00:17:01,222
+Um mainframe de computador.
+
+407
+00:17:01,223 --> 00:17:02,648
+Ele conseguiu um.
+
+408
+00:17:03,562 --> 00:17:05,599
+Só preciso saber onde colocar.
+
+409
+00:17:05,600 --> 00:17:09,149
+Acho que pode ficar aqui.
+
+410
+00:17:09,150 --> 00:17:12,516
+Acho que tenho uma solução
+para o meu colega de quarto.
+
+411
+00:17:12,517 --> 00:17:15,857
+Não posso ter colegas de quarto
+se dormitório não tiver espaço.
+
+412
+00:17:15,858 --> 00:17:17,329
+Por aqui.
+
+413
+00:17:31,279 --> 00:17:33,904
+Só para você saber,
+eu e a Brenda somos só amigos.
+
+414
+00:17:34,323 --> 00:17:35,995
+Está passando
+por uma fase difícil
+
+415
+00:17:35,996 --> 00:17:37,434
+e precisava conversar.
+
+416
+00:17:38,295 --> 00:17:39,595
+Tudo bem.
+
+417
+00:17:40,039 --> 00:17:41,339
+Bom.
+
+418
+00:17:42,834 --> 00:17:44,772
+Por que disse
+que era sobre galinhas?
+
+419
+00:17:47,242 --> 00:17:51,036
+Porque é um assunto
+pessoal da Brenda,
+
+420
+00:17:51,366 --> 00:17:53,832
+e só estou tentando
+ser um bom vizinho.
+
+421
+00:17:55,973 --> 00:17:57,872
+Não queria
+que Billy se preocupasse,
+
+422
+00:17:57,873 --> 00:17:59,599
+então usamos o galinheiro.
+
+423
+00:18:00,492 --> 00:18:02,128
+O que faz sentido, certo?
+
+424
+00:18:02,842 --> 00:18:04,259
+Acho que sim.
+
+425
+00:18:04,260 --> 00:18:05,632
+Bom.
+
+426
+00:18:08,853 --> 00:18:11,478
+Fico feliz por podermos
+conversar sobre essas coisas.
+
+427
+00:18:12,380 --> 00:18:13,788
+Eu também.
+
+428
+00:18:13,789 --> 00:18:16,273
+Algum dia, vamos falar
+sobre mamãe e pastor Rob.
+
+429
+00:18:21,541 --> 00:18:24,573
+Com licença,
+você é a Sra. McAllister?
+
+430
+00:18:24,574 --> 00:18:26,479
+Eu mesma. Posso ajudá-la?
+
+431
+00:18:26,480 --> 00:18:29,322
+Sou a Mary Cooper.
+A mãe do Georgie.
+
+432
+00:18:32,179 --> 00:18:33,479
+Olá.
+
+433
+00:18:33,790 --> 00:18:36,946
+Não sei o que está acontecendo
+entre você e sua filha,
+
+434
+00:18:37,829 --> 00:18:39,258
+mas você precisa superar.
+
+435
+00:18:39,259 --> 00:18:42,585
+Ela está assustada,
+está grávida e precisa da mãe.
+
+436
+00:18:43,718 --> 00:18:45,948
+Estou recebendo
+conselhos parentais
+
+437
+00:18:45,949 --> 00:18:48,911
+da mãe do menino de 17 anos
+que engravidou a minha filha?
+
+438
+00:18:48,912 --> 00:18:50,306
+Está sim.
+
+439
+00:18:50,307 --> 00:18:54,037
+Georgie cometeu um erro,
+mas não o cortei da minha vida.
+
+440
+00:18:54,778 --> 00:18:56,555
+- Você não sabe...
+- Não me importo.
+
+441
+00:18:56,556 --> 00:18:59,203
+Você é a mãe dela. Aja como tal.
+
+442
+00:18:59,204 --> 00:19:02,349
+Então, cresça, ligue
+para sua filha e corrija isso.
+
+443
+00:19:02,350 --> 00:19:03,652
+Agora!
+
+444
+00:19:04,039 --> 00:19:05,767
+- Bem, eu preciso...
+- Falei agora.
+
+445
+00:19:08,201 --> 00:19:09,682
+Eu ia dizer
+
+446
+00:19:09,683 --> 00:19:11,585
+que preciso
+do número do telefone.
+
+447
+00:19:13,638 --> 00:19:14,938
+Certo.
+
+448
+00:19:15,702 --> 00:19:17,002
+Você tem uma caneta?
+
+449
+00:19:23,594 --> 00:19:24,924
+Tudo bem.
+
+450
+00:19:24,925 --> 00:19:26,292
+É só ligar.
+
+451
+00:19:28,985 --> 00:19:30,307
+Olá.
+
+452
+00:19:31,468 --> 00:19:32,768
+Inacreditável.
+
+453
+00:19:32,769 --> 00:19:36,305
+Reitora Hagemeyer, veio
+conhecer meu colega, VAX 6000?
+
+454
+00:19:36,306 --> 00:19:38,980
+Sheldon, não pode ter mainframe
+no dormitório.
+
+455
+00:19:38,981 --> 00:19:40,604
+Na verdade, não tem regra disso.
+
+456
+00:19:40,605 --> 00:19:43,287
+Não posso ter vela,
+micro-ondas, fogão elétrico,
+
+457
+00:19:43,288 --> 00:19:45,283
+cafeteira, torradeira,
+colchão d'água...
+
+458
+00:19:45,284 --> 00:19:46,913
+Não tem nada
+contra um mainframe.
+
+459
+00:19:46,914 --> 00:19:48,980
+Bem, eu sou a reitora
+da universidade
+
+460
+00:19:48,981 --> 00:19:50,606
+e estou dizendo que não pode.
+
+461
+00:19:51,116 --> 00:19:54,329
+Você só está tentando
+sabotar nosso projeto
+
+462
+00:19:54,330 --> 00:19:57,023
+porque sabe que vamos
+te vencer no mercado.
+
+463
+00:19:57,024 --> 00:19:58,796
+Sheldon, pode ligar.
+
+464
+00:20:13,313 --> 00:20:15,300
+<i>Devia ter uma regra contra isso.</i>
+
+465
+00:20:20,056 --> 00:20:22,720
+twitter.com/Unitedteam
+facebook.com/Tec.Subs
